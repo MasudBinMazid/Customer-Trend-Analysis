@@ -29,8 +29,10 @@ Using SQL, I answered critical business questions. Here are the highlights:
 
 ## 📊 Power BI Dashboard
 I built an interactive dashboard to visualize the trends.
+
 ![Customer Trend Dashboard](https://github.com/user-attachments/assets/b45cf8e3-ebbb-4cb6-a3cb-f4ed9ae26326)
 
+Live Link : https://app.powerbi.com/view?r=eyJrIjoiNGJiMDJjOTUtZjE1Zi00OWQ0LWE1ZGQtNGM3ZmI0MmIwY2FkIiwidCI6ImMyMmZmN2IyLTRkYzYtNDI4Zi04NTg1LTY3N2FmNDBiYjRhZiIsImMiOjEwfQ%3D%3D
 
 **Dashboard Highlights:**
 * **Overview Cards:** Displaying Total Customers (3.9K), Average Purchase ($59.76), and Average Rating (3.75).
